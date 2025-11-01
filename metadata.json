@@ -1,0 +1,7 @@
+{
+  "name": "AI Photo Magic",
+  "description": "An AI-powered photo editor that enhances images, converts them to anime style, removes backgrounds, and offers various creative transformations. The application supports both English and Arabic and features a dark mode.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
