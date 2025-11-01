@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Language, User } from './types';
 import { LOCALIZATION_STRINGS } from './constants';
-import Editor from './components/Editor';
+import Editor from "./components/Editor";
 import LandingPage from './components/LandingPage';
 import Loader from './components/Loader';
 
